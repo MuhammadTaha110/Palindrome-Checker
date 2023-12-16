@@ -1,0 +1,2 @@
+# Palindrome-Checker
+JavaScript_Assignment_Palindrome_Checker
